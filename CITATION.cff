@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Inertial Sensor Data Collection with Google Maps
+  Integration
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Henrique
+    family-names: Parede de Souza
+    email: hparede@dac.unicamp.br
+    affiliation: H.IAAC
+  - given-names: Paula
+    family-names: Dornhofer Paro Costa
+    email: paulad@unicamp.br
+    affiliation: H.IAAC
+repository-code: 'https://github.com/H-IAAC/gmaps-android-sensors'
+abstract: >-
+  An Android application that collects inertial sensor data
+  (accelerometer and gyroscope) alongside GPS location
+  readings, visualized on a Google Maps interface. This app
+  is designed to support research on cognitive architectures
+  by providing sensor-logging capabilities for mobile
+  environments.
+license: GPL-3.0
