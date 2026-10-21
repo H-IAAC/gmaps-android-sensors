@@ -78,6 +78,21 @@ Output files are saved to the app's **external files directory** (accessible via
 
 - (2026-) [Henrique Parede de Souza](https://github.com/Henrique-hpds): Computer Engineering student, FEEC-UNICAMP
 
+
+## Citation
+
+<!--Don't remove the following tags, it's used for placing the generated citation from the CFF file-->
+<!--CITATION START-->
+```bibtex
+@software{Parede_de_Souza_Inertial_Sensor_Data,
+author = {Parede de Souza, Henrique and Dornhofer Paro Costa, Paula},
+license = {GPL-3.0},
+title = {{Inertial Sensor Data Collection with Google Maps Integration}},
+url = {https://github.com/H-IAAC/gmaps-android-sensors}
+}
+```
+<!--CITATION END-->
+
 ## Acknowledgements
 
 This study was financed by the São Paulo Research Foundation (FAPESP), Brasil. Process Number 2024/23473-6.
